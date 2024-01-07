@@ -27,3 +27,5 @@ cd ..
 ls --color=auto
 cd project
 touch questionnaire.sh
+__vsc_prompt_cmd_original
+echo hello questionnaire >> questionnaire.sh
