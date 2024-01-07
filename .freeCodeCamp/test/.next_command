@@ -30,3 +30,8 @@ touch questionnaire.sh
 __vsc_prompt_cmd_original
 echo hello questionnaire >> questionnaire.sh
 sh questionnaire.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+sh qbash questionnaire.sh
+bash questionnaire.sh
