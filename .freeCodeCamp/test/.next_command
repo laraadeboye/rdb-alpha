@@ -54,3 +54,15 @@ ls --color=auto -l
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+echo --help
+echo -help
+help echo
+__vsc_prompt_cmd_original
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+__vsc_prompt_cmd_original
+man echo
